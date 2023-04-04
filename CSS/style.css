@@ -40,6 +40,7 @@ header {
 
 .nav_left {
     position: absolute;
+    left: 1%;
     margin-right: 10px;
     font-weight: 1000;
     color: yellowgreen;
@@ -47,7 +48,7 @@ header {
 
 .nav_right {
     margin-right: 8px;
-    left: 71%;
+    left: 67%;
 }
 
 .nav_left a {
@@ -74,9 +75,14 @@ header {
 }
 
 .s1 h1 {
+    padding-left: 1%;
     color: #2983dc;
     font-style: italic;
     font-weight: 1000;
+}
+
+.s1 p {
+    padding-left: 1%;
 }
 
 .name {
